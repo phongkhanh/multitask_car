@@ -1,0 +1,13 @@
+INFO:root:Using Tensorboard, logs will be saved in ./demo/workspace/model_new_pan/logs
+INFO:root:Setting up data...
+INFO:root:loading annotations into memory...
+INFO:root:Found 140 annotation files.
+INFO:root:Load 140 xml files and 140 boxes
+INFO:root:Done (t=0.01s)
+INFO:root:loading annotations into memory...
+INFO:root:Found 0 annotation files.
+INFO:root:Load 0 xml files and 0 boxes
+INFO:root:Done (t=0.00s)
+INFO:root:Creating model...
+INFO:torch.distributed.distributed_c10d:Added key: store_based_barrier_key:1 to store for rank: 0
+INFO:torch.distributed.distributed_c10d:Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
