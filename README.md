@@ -43,3 +43,5 @@ Segmentation(only       | -  | -  |  94.9%  | 133.33fps |
 Detection+Segmentation    |85.9%  | 89.3%  |  94.9%  | 60.22fps |
 Multi-task        | 86.3%  | 89.4%  |  95.9%  |  100.56fps |
 - Từ bảng cho thấy việc học đa tác vụ giúp cho Recall, mAP và IoU đều tăng lên so với việc huấn luyện từng tác vụ ngoài ra tốc độ nhanh hơn vượt trội so với việc chạy tuần tự từng nhiệm vụ.
+# Tài liệu tham khảo
+https://github.com/RangiLyu/nanodet
